@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Jorge Veiras a student at Imperial College London
 
-<!--
-**jveiras2001/jveiras2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 From October 2023 I will be working on this GitHub account: https://github.com/edsml-951c29ea
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
